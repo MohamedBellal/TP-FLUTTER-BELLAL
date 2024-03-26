@@ -186,7 +186,7 @@ Widget build(BuildContext context) {
                       child: Align(
                         alignment: Alignment.topCenter,
                         child: Container(
-                          margin: EdgeInsets.symmetric(vertical: 10.0), // Ajustez selon vos besoins
+                          margin: EdgeInsets.symmetric(vertical: 10.0),
                           padding: EdgeInsets.all(8.0),
                           decoration: BoxDecoration(
                             color: Color(0xFFFF982B), // Couleur de fond à l'intérieur de l'encadré
