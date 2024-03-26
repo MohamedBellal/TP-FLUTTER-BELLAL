@@ -1,0 +1,26 @@
+name: td6
+description: "A new Flutter project."
+
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.3.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_map: ^0.14.0 # Add the version that is compatible with your SDK
+  http: ^0.13.3 # Add the version that is compatible with your SDK
+  cupertino_icons: ^1.0.6
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true
+
+  # Add your assets and fonts here if you have any
